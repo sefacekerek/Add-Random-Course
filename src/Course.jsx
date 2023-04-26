@@ -10,6 +10,7 @@ export default function Course({ data }) {
     Reactt: Reactt,
     Java: Java,
     Csharp: Csharp,
+    
   };
 
 
